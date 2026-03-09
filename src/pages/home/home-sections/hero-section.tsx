@@ -4,7 +4,7 @@ import HeroImage from "@/assets/hero-image.png";
 
 const HeroSection: React.FC = () => {
   return (
-    <section className="relative min-h-[90vh] flex items-center pt-20 overflow-hidden bg-[var(--brand-navy)]">
+    <section className="relative min-h-[100vh] flex items-center pt-20 overflow-hidden bg-[var(--brand-navy)]">
       {/* Background Layer */}
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-r from-[var(--brand-navy)] via-[var(--brand-navy)]/80 to-transparent z-10" />
