@@ -50,7 +50,7 @@ const ContactSection: React.FC = () => {
                             </div>
                             <div className="flex items-center gap-4">
                                 <div className="p-3 bg-[var(--brand-blue)] rounded-lg"><MapPin size={20} /></div>
-                                <span className="font-bold text-lg">Brighton & Hove, UK</span>
+                                <span className="font-bold text-lg">East Sussex, UK</span>
                             </div>
                         </div>
 
